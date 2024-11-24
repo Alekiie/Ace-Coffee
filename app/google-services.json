@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901684865796",
+    "project_id": "hello-coffee-a9162",
+    "storage_bucket": "hello-coffee-a9162.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901684865796:android:25b3831bf6acf5fa007e51",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzV5InoMeN2ET6et55a-xmAcM6N-XjIz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

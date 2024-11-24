@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ace Coffee</string>
+    <string name="find_the_best_coffee_near_n_you">Find the best coffee Near\n You</string>
+    <string name="shake">Shake</string>
+</resources>
